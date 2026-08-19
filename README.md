@@ -1,2 +1,2 @@
-# salon-website
+# salonlestresses-website
 professional hair salon website 
